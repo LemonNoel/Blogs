@@ -1,16 +1,16 @@
 #Git时间-最简单的命令行
 ---
 <br/>
-最近开始学习使用Git和GitHub，总结一下Windows下的基本使用，配方简单，食用愉快~ =) 详细参数可以参考[官方文档](https://git-scm.com)等教程。
+最近开始学习使用Git和GitHub，总结一下Windows下的基本使用，配方简单，食用愉快~ =) 详细参数可以参考[官方文档](https://git-scm.com/)等教程。
 <br/>
 <br/>
 
-###Git 安装
+##Git 安装
 ---
 Windows下使用Git需要配置Cygwin之类的模拟环境。当然工具安装过程越简单越好，直接从[msysgit](https://git-for-windows.github.io/)下载.exe，默认选项安装，完毕。
 <br/>
 
-###Git 使用
+##Git 使用
 ---
 在电脑任意位置右击打开Git Bash，然后愉快的输入命令行吧~
 
@@ -76,7 +76,7 @@ $ git push origin master
 
 <br/>
 
-###Git 远程操作
+##Git 远程操作
 ---
 现在我们有了本地的管家，但是电脑不在手边又想修改怎么办呢，那就需要[GitHub](https://zh.wikipedia.org/wiki/GitHub)啦。首先注册一个GitHub账号，按照网站的引导创建一个repository。不勾选生成README.md，就可以看到如下教程
 ![](methods.png)
