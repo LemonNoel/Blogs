@@ -1,7 +1,7 @@
 #Git时间-最简单的命令行
 ---
 <br/>
-最近开始学习使用Git和GitHub，总结一下Windows下的基本使用，配方简单，食用愉快~ =) 详细参数可以参考[官方文档](https://git-scm.com/)等教程。
+最近开始学习使用Git和GitHub，总结一下Windows下的基本使用，配方简单，食用愉快~ =) 详细参数可以参考[官方文档](https://git-scm.com/)
 <br/>
 <br/>
 
