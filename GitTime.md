@@ -1,13 +1,13 @@
-##Git时间-最简单的命令行
+#Git时间-最简单的命令行
 ---
-
-最近开始学习使用Git和GitHub，总结一下Windows下的基本使用，详细参数可以参考[官方文档](https://git-scm.com/)等教程。
+<br/>
+最近开始学习使用Git和GitHub，总结一下Windows下的基本使用，配方简单，食用愉快~ =) 详细参数可以参考[官方文档](https://git-scm.com/)等教程。
+<br/>
 <br/>
 
 ###Git 安装
 ---
 Windows下使用Git需要配置Cygwin之类的模拟环境。当然工具安装过程越简单越好，直接从[msysgit](https://git-for-windows.github.io/)下载.exe，默认选项安装，完毕。
-
 <br/>
 
 ###Git 使用
@@ -136,8 +136,6 @@ $ git fetch origin master
 ```
 
 远程操作部分[阮一峰老师](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)写得很好，本篇有所参考。
-
-配方简单，食用愉快~ =)
 
 
 
